@@ -20,7 +20,7 @@ setTimeout(() => {
                   document.querySelector(".msg").innerText = 1;
                   setTimeout(() => {
                     document.querySelector(".msg").innerText =
-                      "Happy Independence Day!!!";
+                      "Happy Independence Day";
                   }, 1000);
                 }, 1000);
               }, 1000);
